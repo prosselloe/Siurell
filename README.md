@@ -1,4 +1,4 @@
-siurell-sant-antoni/
+Siurell/
 ├─ index.html          ← portada
 ├─ projecte.html       ← documentació del procés
 ├─ style.css
