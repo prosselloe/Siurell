@@ -1,6 +1,6 @@
 Siurell/<br>
-├─ index.html<br>          ← portada
-├─ projecte.html<br>      ← documentació del procés
+├─ index.html         ← portada<br> 
+├─ projecte.html      ← documentació del procés<br>
 ├─ style.css<br>
 ├─ app.js<br>
 ├─ assets/<br>
